@@ -265,3 +265,7 @@ div.section.black {
   background-color: black; /* Setzt den Hintergrund auf Schwarz */
   color: white; /* Setzt die Textfarbe auf Weiß */
 }
+
+footer > div {
+    max-width: unset;
+}
