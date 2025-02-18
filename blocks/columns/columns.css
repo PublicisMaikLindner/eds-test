@@ -9,7 +9,6 @@
 
 .columns > div > div {
   order: 1;
-    background-color: white;
 }
 
 .columns > div > .columns-img-col {
@@ -33,6 +32,6 @@
   }
 }
 
-.columns .white > div > div {
+.columns.white > div > div {
     background-color: white;
 }
