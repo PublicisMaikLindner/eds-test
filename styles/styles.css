@@ -260,3 +260,8 @@ main .section.black {
   background-color: black;
   color: white;
 }
+
+div.section.black {
+  background-color: black; /* Setzt den Hintergrund auf Schwarz */
+  color: white; /* Setzt die Textfarbe auf Weiß */
+}
