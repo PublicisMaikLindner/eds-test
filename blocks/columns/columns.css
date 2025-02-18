@@ -32,6 +32,6 @@
   }
 }
 
-.colums .white {
+.colums .white > div > div {
     background-color: white;
 }
